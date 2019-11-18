@@ -210,15 +210,16 @@ ul li a {
     margin: 0 auto;
     padding: 45px 0 70px 0;
     background: #777;
-    color: #000;
+    color: #fff;
 }
 
 .portfolio p {
-	margin-top: 10px;
-	padding: 0 120px;
-    font-family: 'signikalight', sans-serif;
-	font-size: 16px;
-    line-height: 20px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+    font-family: 'Georgia', serif;
+	font-size: 20px;
+	font-style: italic;
+    line-height: 30px;
     text-shadow: 0 1px 0 rgba(8, 8, 8, 0.2);
 }
 
@@ -368,6 +369,17 @@ ul li a {
     margin: 0 auto;
     padding: 35px 0 55px 0;
 	background: #555;
+	color: #fff;
+}
+
+.dark p {
+	margin-top: 15px;
+	margin-bottom: 30px;
+    font-family: 'Georgia', serif;
+	font-size: 20px;
+	font-style: italic;
+    line-height: 30px;
+    text-shadow: 0 1px 0 rgba(8, 8, 8, 0.2);
 }
 
 .dark-box {
