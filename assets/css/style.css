@@ -79,6 +79,21 @@ h2 {
 	text-shadow: 0 2px 0 rgba(8, 8, 8, 0.2);
 }
 
+ul li {
+	    text-indent: -1.5em;
+		list-style-type: circle;
+}
+
+li:first-child {
+	margin-top: 0.5em;
+}
+
+ul li a {
+	color: #fff;
+}
+
+
+
 
 /***** Top content *****/
 
@@ -438,6 +453,7 @@ footer p {
     background: #FF6608;
 }
 
+ul li a:hover,
 .top-content-text h1 span.top-content-text-big,
 .portfolio-box-text h3,
 h2,
