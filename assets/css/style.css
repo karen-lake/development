@@ -170,20 +170,20 @@ ul li a {
 }
 
 
-/***** Skills *****/
+/***** Code *****/
 
 
-.skills-container {
+.white-container {
     margin: 0 auto;
     background: #464c5c;
 	background: #fff;
 }
 
-.services-box {
+.white-box {
 	margin-top: 30px;
 }
 
-.services-box h3 {
+.white-box h3 {
 	padding: 0 0 4px 0;
 	font-family: 'signikasemibold', sans-serif;
 	font-size: 24px;
@@ -191,13 +191,13 @@ ul li a {
     line-height: 28px;
 }
 
-.services-box p {
+.white-box p {
 	font-family: 'signikalight', sans-serif;
 	font-size: 20px;
     line-height: 26px;
 }
 
-.services-box .services-box-icon {
+.white-box .white-box-icon {
     width: 111px;
     height: 111px;
     margin: 0 auto;
@@ -209,8 +209,8 @@ ul li a {
 .portfolio-container {
     margin: 0 auto;
     padding: 45px 0 70px 0;
-    background: #777777;
-    color: #fff;
+    background: #777;
+    color: #000;
 }
 
 .portfolio p {
@@ -295,19 +295,19 @@ ul li a {
 }
 
 
-/***** Development work *****/
+/***** Medium grey section *****/
 
-.development-container {
+.medium-container {
     margin: 0 auto;
     padding: 45px 0 55px 0;
-	background: #555;
+	background: #777;
     color: #fff;
 	font-family: 'signikalight', sans-serif;
 	font-size: 20px;
     line-height: 26px;
 }
 
-.development p {
+.medium p {
 	margin-top: 15px;
 	margin-bottom: 30px;
     font-family: 'Georgia', serif;
@@ -317,7 +317,7 @@ ul li a {
     text-shadow: 0 1px 0 rgba(8, 8, 8, 0.2);
 }
 
-.development-box {
+.medium-box {
 	margin-top: 30px;
 	padding: 20px;
 	border: 2px solid #e7e7e7;
@@ -327,21 +327,21 @@ ul li a {
     overflow: hidden;
 }
 
-.development-box-text {
+.medium-box-text {
 	float: left;
 	text-align: left;
 	font-size: 16px;
 	line-height: 1.4;
 }
 
-.development-box-text p.small {
+.medium-box-text p.small {
 	font-style: italic;
 	font-size: 14px;
 	padding-top: 10px;
 	margin-top: 0;
 }
 
-.development-box-text h3 {
+.medium-box-text h3 {
 	margin: 0;
 	padding: 0;
 	font-family: 'signikasemibold', sans-serif;
@@ -350,11 +350,11 @@ ul li a {
 	line-height: 24px;
 }
 
-.development-box-text p {
+.medium-box-text p {
 	margin: 10px 0 0 0;
 }
 
-.development-box-text .development-box-social {
+.medium-box-text .medium-box-social {
 	height: 38px;
 	margin-top: 16px;
 }
@@ -362,19 +362,19 @@ ul li a {
 
 
 
-/***** Animation module*****/
+/***** Dark grey section*****/
 
-.animation-container {
+.dark-container {
     margin: 0 auto;
     padding: 35px 0 55px 0;
-	background: #777777;
+	background: #555;
 }
 
-.animation-box {
+.dark-box {
 	margin-top: 30px;
 }
 
-.animation-box h3 {
+.dark-box h3 {
 	padding: 0 0 4px 0;
 	font-family: 'signikasemibold', sans-serif;
 	font-size: 24px;
@@ -382,7 +382,7 @@ ul li a {
     line-height: 28px;
 }
 
-.animation-box p {
+.dark-box p {
 	margin-top: 10px;
 	padding: 0 10px;
     font-family: 'signikalight', sans-serif;
@@ -392,25 +392,25 @@ ul li a {
 	color: #ffffff;
 }
 
-.animation-box p.new-tab {
+.dark-box p.new-tab {
 	color: #222;
 	font-size: 12px;
 	line-height: 1.4;
 }
 
-.animation-box p a {
+.dark-box p a {
 	color: #FF6608;
 	font-size: 14px;
 }
 
-.animation-box p.small {
+.dark-box p.small {
 	font-style: italic;
 	font-size: 14px;
 	padding-top: 0;
 	margin-top: 0;
 }
 
-.animation-box .animation-box-icon {
+.dark-box .dark-box-icon {
     width: 220px;
     height: 146px;
     margin: 0 auto;
